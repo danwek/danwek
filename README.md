@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danwek
-- 👀 I’m interested in d-language
-- 🌱 I’m currently d-language
+- 👀 I’m interested in /
+- 🌱 I’m currently \
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
